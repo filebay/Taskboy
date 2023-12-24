@@ -2,8 +2,8 @@
 
 Taskboy is a secure and straightforward command-line task manager that empowers you to efficiently organize and manage your tasks. With its focus on simplicity and security, Taskboy provides an easy-to-use interface while ensuring that your task data remains protected.
 
-![Screenshot 1](https://i.ibb.co/ZGcP2CW)
-![Screenshot 2](https://i.ibb.co/FqKdfB0)
+![Screenshot 1](https://ibb.co/ZGcP2CW)
+![Screenshot 2](https://ibb.co/FqKdfB0)
 
 #Usage & #Basic Commands
 
